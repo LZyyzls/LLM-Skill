@@ -1,0 +1,11 @@
+name,age,city,email,phone,salary,department,join_date
+张三,28,北京,zhangsan@mail.com,13800138000,15000,Engineering,2022-03-15
+李四,,上海,lisi@mail.com,13900139000,18000,Marketing,2021-07-22
+王五,32,广州,,13700137000,22000,Engineering,2020-11-08
+赵六,25,北京,zhaoliu@test.com,,13000,HR,2023-01-10
+孙七,29,深圳,sunqi@mail.com,13600136000,16500,Engineering,2022-09-01
+周八,31,杭州,,13500135000,19000,Marketing,2021-04-18
+吴九,27,成都,wujiu@mail.com,13400134000,14500,Engineering,2023-02-28
+郑十,,武汉,,13300133000,17000,HR,2022-06-12
+陈一,30,南京,chenyi@mail.com,13200132000,20000,Engineering,2020-08-05
+林二,26,西安,liner@test.com,13100131000,15500,Marketing,2022-12-01

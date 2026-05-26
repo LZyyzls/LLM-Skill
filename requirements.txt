@@ -1,0 +1,9 @@
+# 所有子项目共用的核心依赖
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# 模式 C（csv-data-cleaner）脚本依赖
+pandas>=2.0.0
+
+# 各子项目 scripts/ 均使用 Python 标准库
+# （csv, json, argparse, re, math, pathlib, subprocess, tempfile）
