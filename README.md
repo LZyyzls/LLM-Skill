@@ -1,6 +1,6 @@
-# Skill-Agent: Claude Code Skill 写法学习项目
+# Skill-Agent: Skill 写法学习项目
 
-学习 Claude Code 中五种 Skill 编写模式的完整示例集合，从极简到完整工作流逐步递进。
+五种 Skill 编写模式的完整示例集合，从极简到完整工作流逐步递进。
 
 ## 项目结构
 
